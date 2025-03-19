@@ -4,7 +4,7 @@
 
 # Usage
 > [!TIP]
->+ `git clone https://github.com/WestSideDev/jdtls-termux`
+>+ `git clone https://github.com/mallocdev/jdtls-termux`
 >+ `cd jdtls-termux/`
 >+ `chmod +x install`
 >+ `./install`
